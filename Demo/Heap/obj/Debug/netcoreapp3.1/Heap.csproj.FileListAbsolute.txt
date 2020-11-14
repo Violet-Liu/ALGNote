@@ -1,0 +1,13 @@
+F:\workplace\Study\ALGNote\Demo\Heap\bin\Debug\netcoreapp3.1\Heap.exe
+F:\workplace\Study\ALGNote\Demo\Heap\bin\Debug\netcoreapp3.1\Heap.deps.json
+F:\workplace\Study\ALGNote\Demo\Heap\bin\Debug\netcoreapp3.1\Heap.runtimeconfig.json
+F:\workplace\Study\ALGNote\Demo\Heap\bin\Debug\netcoreapp3.1\Heap.runtimeconfig.dev.json
+F:\workplace\Study\ALGNote\Demo\Heap\bin\Debug\netcoreapp3.1\Heap.dll
+F:\workplace\Study\ALGNote\Demo\Heap\bin\Debug\netcoreapp3.1\Heap.pdb
+F:\workplace\Study\ALGNote\Demo\Heap\obj\Debug\netcoreapp3.1\Heap.csprojAssemblyReference.cache
+F:\workplace\Study\ALGNote\Demo\Heap\obj\Debug\netcoreapp3.1\Heap.AssemblyInfoInputs.cache
+F:\workplace\Study\ALGNote\Demo\Heap\obj\Debug\netcoreapp3.1\Heap.AssemblyInfo.cs
+F:\workplace\Study\ALGNote\Demo\Heap\obj\Debug\netcoreapp3.1\Heap.csproj.CoreCompileInputs.cache
+F:\workplace\Study\ALGNote\Demo\Heap\obj\Debug\netcoreapp3.1\Heap.dll
+F:\workplace\Study\ALGNote\Demo\Heap\obj\Debug\netcoreapp3.1\Heap.pdb
+F:\workplace\Study\ALGNote\Demo\Heap\obj\Debug\netcoreapp3.1\Heap.genruntimeconfig.cache

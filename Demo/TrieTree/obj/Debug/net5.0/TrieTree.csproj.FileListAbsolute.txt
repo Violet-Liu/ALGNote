@@ -1,0 +1,13 @@
+F:\workplace\Study\ALGNote\Demo\TrieTree\bin\Debug\net5.0\TrieTree.exe
+F:\workplace\Study\ALGNote\Demo\TrieTree\bin\Debug\net5.0\TrieTree.deps.json
+F:\workplace\Study\ALGNote\Demo\TrieTree\bin\Debug\net5.0\TrieTree.runtimeconfig.json
+F:\workplace\Study\ALGNote\Demo\TrieTree\bin\Debug\net5.0\TrieTree.runtimeconfig.dev.json
+F:\workplace\Study\ALGNote\Demo\TrieTree\bin\Debug\net5.0\TrieTree.dll
+F:\workplace\Study\ALGNote\Demo\TrieTree\bin\Debug\net5.0\TrieTree.pdb
+F:\workplace\Study\ALGNote\Demo\TrieTree\obj\Debug\net5.0\TrieTree.csprojAssemblyReference.cache
+F:\workplace\Study\ALGNote\Demo\TrieTree\obj\Debug\net5.0\TrieTree.AssemblyInfoInputs.cache
+F:\workplace\Study\ALGNote\Demo\TrieTree\obj\Debug\net5.0\TrieTree.AssemblyInfo.cs
+F:\workplace\Study\ALGNote\Demo\TrieTree\obj\Debug\net5.0\TrieTree.csproj.CoreCompileInputs.cache
+F:\workplace\Study\ALGNote\Demo\TrieTree\obj\Debug\net5.0\TrieTree.dll
+F:\workplace\Study\ALGNote\Demo\TrieTree\obj\Debug\net5.0\TrieTree.pdb
+F:\workplace\Study\ALGNote\Demo\TrieTree\obj\Debug\net5.0\TrieTree.genruntimeconfig.cache
