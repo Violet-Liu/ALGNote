@@ -1,0 +1,4 @@
+F:\workplace\Study\ALGNote\Demo\Greedy\bin\Debug\netcoreapp3.1\Greedy.exe
+F:\workplace\Study\ALGNote\Demo\Greedy\obj\Debug\netcoreapp3.1\Greedy.csprojAssemblyReference.cache
+F:\workplace\Study\ALGNote\Demo\Greedy\obj\Debug\netcoreapp3.1\Greedy.AssemblyInfoInputs.cache
+F:\workplace\Study\ALGNote\Demo\Greedy\obj\Debug\netcoreapp3.1\Greedy.AssemblyInfo.cs

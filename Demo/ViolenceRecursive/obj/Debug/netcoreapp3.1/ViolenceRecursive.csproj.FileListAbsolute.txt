@@ -1,0 +1,13 @@
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\bin\Debug\netcoreapp3.1\ViolenceRecursive.exe
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\bin\Debug\netcoreapp3.1\ViolenceRecursive.deps.json
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\bin\Debug\netcoreapp3.1\ViolenceRecursive.runtimeconfig.json
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\bin\Debug\netcoreapp3.1\ViolenceRecursive.runtimeconfig.dev.json
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\bin\Debug\netcoreapp3.1\ViolenceRecursive.dll
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\bin\Debug\netcoreapp3.1\ViolenceRecursive.pdb
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\obj\Debug\netcoreapp3.1\ViolenceRecursive.csprojAssemblyReference.cache
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\obj\Debug\netcoreapp3.1\ViolenceRecursive.AssemblyInfoInputs.cache
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\obj\Debug\netcoreapp3.1\ViolenceRecursive.AssemblyInfo.cs
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\obj\Debug\netcoreapp3.1\ViolenceRecursive.csproj.CoreCompileInputs.cache
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\obj\Debug\netcoreapp3.1\ViolenceRecursive.dll
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\obj\Debug\netcoreapp3.1\ViolenceRecursive.pdb
+F:\workplace\Study\ALGNote\Demo\ViolenceRecursive\obj\Debug\netcoreapp3.1\ViolenceRecursive.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\workplace\Study\ALGNote\Demo\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.exe
+F:\workplace\Study\ALGNote\Demo\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.deps.json
+F:\workplace\Study\ALGNote\Demo\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.json
+F:\workplace\Study\ALGNote\Demo\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.dev.json
+F:\workplace\Study\ALGNote\Demo\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+F:\workplace\Study\ALGNote\Demo\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+F:\workplace\Study\ALGNote\Demo\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csprojAssemblyReference.cache
+F:\workplace\Study\ALGNote\Demo\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfoInputs.cache
+F:\workplace\Study\ALGNote\Demo\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
+F:\workplace\Study\ALGNote\Demo\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.CoreCompileInputs.cache
+F:\workplace\Study\ALGNote\Demo\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
+F:\workplace\Study\ALGNote\Demo\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
+F:\workplace\Study\ALGNote\Demo\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\workplace\Study\ALGNote\Demo\SelectionSort\bin\Debug\netcoreapp3.1\BasicSort.exe
+F:\workplace\Study\ALGNote\Demo\SelectionSort\bin\Debug\netcoreapp3.1\BasicSort.deps.json
+F:\workplace\Study\ALGNote\Demo\SelectionSort\bin\Debug\netcoreapp3.1\BasicSort.runtimeconfig.json
+F:\workplace\Study\ALGNote\Demo\SelectionSort\bin\Debug\netcoreapp3.1\BasicSort.runtimeconfig.dev.json
+F:\workplace\Study\ALGNote\Demo\SelectionSort\bin\Debug\netcoreapp3.1\BasicSort.dll
+F:\workplace\Study\ALGNote\Demo\SelectionSort\bin\Debug\netcoreapp3.1\BasicSort.pdb
+F:\workplace\Study\ALGNote\Demo\SelectionSort\obj\Debug\netcoreapp3.1\BasicSort.csprojAssemblyReference.cache
+F:\workplace\Study\ALGNote\Demo\SelectionSort\obj\Debug\netcoreapp3.1\BasicSort.AssemblyInfoInputs.cache
+F:\workplace\Study\ALGNote\Demo\SelectionSort\obj\Debug\netcoreapp3.1\BasicSort.AssemblyInfo.cs
+F:\workplace\Study\ALGNote\Demo\SelectionSort\obj\Debug\netcoreapp3.1\BasicSort.csproj.CoreCompileInputs.cache
+F:\workplace\Study\ALGNote\Demo\SelectionSort\obj\Debug\netcoreapp3.1\BasicSort.dll
+F:\workplace\Study\ALGNote\Demo\SelectionSort\obj\Debug\netcoreapp3.1\BasicSort.pdb
+F:\workplace\Study\ALGNote\Demo\SelectionSort\obj\Debug\netcoreapp3.1\BasicSort.genruntimeconfig.cache
